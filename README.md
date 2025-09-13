@@ -29,12 +29,7 @@ You can click the Preview link to take a look at your changes.
 <!---
 ## Most Used Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrokahla&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)--->
-## 💼 Freelance Profiles
 
-Feel free to reach out for freelance collaborations, consulting, or project work!
-- [Upwork](https://www.upwork.com/freelancers/~01f4b6947efb7883ce)  
-- [khamsat](https://khamsat.com/user/amr_kahla/services)  
-- [Mostql](https://mostaql.com/u/Amr_Kahla)  
 
 
 
